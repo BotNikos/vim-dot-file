@@ -38,7 +38,7 @@ set ttymouse=xterm2
 set laststatus=2
 
 map <F2> :NERDTreeToggle<CR>
-map <Leader> <Plug>(easymoution-prefix)
+map <Leader> <Plug>(easymotion-prefix)
 nmap <F8> :TagbarToggle<CR>
 inoremap <C-j> <C-n>
 inoremap <C-k> <C-p>
